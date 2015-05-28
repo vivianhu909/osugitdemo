@@ -1,2 +1,3 @@
 Mars is my favorite planet. It is read and sandy.
-But it's far. Also it broke robots on it.
+But it's far. Also it has broken robots on it.
+add temp info

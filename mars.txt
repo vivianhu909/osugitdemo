@@ -4,4 +4,8 @@ Also it's cold. But I'd like to go there one day.
 I want to see if there is any eliens.
 Add more changes.
 Work with partner to test the status of Mars.
+<<<<<<< HEAD
 2nd test is on the way.
+=======
+The robots are getting restless and angry!
+>>>>>>> 094445cc92730cd0bf210881681c44bb2cfc7da2
